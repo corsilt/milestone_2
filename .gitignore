@@ -130,4 +130,5 @@ dmypy.json
 .pyre/
 
 #secrets
+hidden2.py
 hidden.py
