@@ -1,6 +1,6 @@
 # Milestone II Project Report
 ## Cory Bilyeu and Sandro Bruno
-### Random walk implemenation of drug-disease netwroks for drug repurposing and discovery
+### Random walk implemenation of a drug-disease network for drug repurposing and discovery
 
 ### Motivation
 Most diseases disrupt multiple proteins, and drugs treat such diseases by restoring the functions of the disrupted proteins. How drugs restore these functions, however, is often unknown because a drug’s therapeutic effects are not limited to the proteins that the drug directly targets. Thereby, we noticed two key observations that inspired our unsupervised Milestone II project drafted below. 
